@@ -7,7 +7,7 @@ This project is perfect for beginners who want to learn web development basics u
 # Basic Arithmetic Operations:
 Implement the core functionality of a calculator, including addition, subtraction, multiplication, and division.
 # User Interface: 
-Design a clean and user-friendly interface with buttons for numbers (0-9), operators (+, -, *, /), and other essential keys (e.g., equals, clear).
+Design a clean and user-friendly interface with buttons for numbers (0-9), operators (+, -, *, /, %, √, ., +/-), and other essential keys (e.g., equals, clear,Square Root).
 # Input Handling: 
 Allow users to input numbers and operators by clicking the buttons on the UI. Display the input expression and the result on the screen.
 # Error Handling: 
