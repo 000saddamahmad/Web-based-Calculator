@@ -15,19 +15,21 @@ body {
 }
 
 .display-input {
-    margin-bottom: 1px;
-    padding: 8px; /* Adjust padding as needed */
-    border: 1px blueviolet;
-    background-color: #191d2b; /* Button background color */
-    border-radius: 10px; /* Rounded corners */
+    margin-bottom: 0px;
+    padding: 10px 4px 4px 4px;
+     /* Adjust padding as needed */
+    border: 0px blueviolet;
+    background-color: #191d2b;
+    border-top-left-radius: 10px; /* Rounded upper-left corner */
+    border-top-right-radius: 10px; /* Button background color */
 }
 
 .display-result {
-    margin-bottom: 1px;
-    padding: 8px; /* Adjust padding as needed */
-    border: 1px blueviolet;
+    margin-bottom: 0px;
+    padding: 4px; /* Adjust padding as needed */
+    border: 0px blueviolet;
     background-color: #191d2b; /* Button background color */
-    border-radius: 10px; /* Rounded corners */
+     /* Rounded corners */
 }
 
 input[type="text"] {
@@ -68,7 +70,8 @@ input[type="text"] {
     padding: 10px 20px; /* Adjust padding as needed */
     border: 1px blueviolet;
     background-color: #191d2b; /* Button background color */
-    border-radius: 10px; /* Rounded corners */
+    border-bottom-left-radius: 10px; /* Rounded upper-left corner */
+    border-bottom-right-radius: 10px;
    
 }
 
